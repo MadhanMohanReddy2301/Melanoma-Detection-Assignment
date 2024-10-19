@@ -71,4 +71,4 @@ To build a multiclass classification model using a custom convolutional neural n
   - [TensorFlow](https://www.tensorflow.org/)
 
 ## Contact
-Created by [@darshil2848] - feel free to contact me!
+Created by [@madhanmohan2301] - feel free to contact me!
