@@ -33,6 +33,12 @@ The dataset includes the following diseases:
 
 To build a multiclass classification model using a custom convolutional neural network (CNN) in TensorFlow to classify skin diseases.
 
+### Sample Dataset Images
+
+Here are a few samples from the dataset:
+
+![Sample Image 1](images/dataset.png)
+
 ### Business Risk
 
 - Incorrect classification of skin cancer poses significant health risks.
@@ -49,7 +55,13 @@ To build a multiclass classification model using a custom convolutional neural n
 5. **Data Augmentation**: Apply augmentation to resolve overfitting/underfitting.
 6. **Class Distribution**: Examine class distribution, identifying the least and most dominant classes.
 7. **Handling Class Imbalances**: Use the Augmentor library to address class imbalances.
-8. **Final Model Training**: Train the model for ~30 epochs on the augmented and balanced data. 
+8. **Final Model Training**: Train the model for ~30 epochs on the augmented and balanced data.
+
+## Results
+
+Below is the accuracy and loss graph for the model:
+
+![Training Results](images/results.png)
 
 ## Technologies Used
 - `pandas` - 1.3.4
